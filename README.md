@@ -1,4 +1,4 @@
-### ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+### ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge-square)
 
 <!--
 **Ska9/Ska9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

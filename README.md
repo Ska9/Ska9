@@ -48,4 +48,3 @@ height="40"/>&nbsp;
 </div>
 <hr>
 
-### :fire: My Stats :

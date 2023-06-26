@@ -23,9 +23,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   You are welcome in the profile of <em> SKANDER BOURAOUI </em>
 </h1>
-<div align="center">
-<img src="https://media.giphy.com/media/7ALOsHTCDT5fi/giphy.gif" >
-</div>
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align='center' >
   <em> HEY There </em> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  You are welcome in the profile of <em> SKANDER BOURAOUI </em>
+   Welcome I am <em> SKANDER BOURAOUI </em>
 </h1>
 <hr>
 
@@ -49,5 +49,3 @@ height="40"/>&nbsp;
 <hr>
 
 ### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mednoor890&theme=chartreuse-dark	)](https://git.io/streak-stats)
